@@ -281,7 +281,7 @@ function handleOptionClick(selected, clickedBtn) {
 
   if (isCorrect) {
     feedbackBox.classList.add("correct");
-    feedbackBox.textContent = "Correct!";
+    feedbackBox.textContent = "That's correct!";
   } else {
     feedbackBox.classList.add("wrong");
     feedbackBox.textContent =
