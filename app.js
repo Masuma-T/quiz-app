@@ -16,6 +16,7 @@
         work — console.log() is your best debugging friend.
    ============================================================= */
 
+   // added comment for all commit
 
 /* =============================================================
    PART A: QUIZ DATA — REPLACE WITH YOUR OWN QUESTIONS ✏️
