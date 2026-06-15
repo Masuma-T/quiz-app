@@ -1,7 +1,7 @@
 # JavaScript Quiz App
 
 ## Live Demo
-[https://your-github-pages-link-here](https://masuma-t.github.io/quiz-app/)
+[https://masuma-t.github.io/quiz-app/](https://masuma-t.github.io/quiz-app/)
 
 ##  Description
 Interactive quiz app built using HTML, CSS, and vanilla JavaScript. Users answer questions and receive instant feedback and final score.
