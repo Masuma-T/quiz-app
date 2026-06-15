@@ -16,7 +16,7 @@
         work — console.log() is your best debugging friend.
    ============================================================= */
 
-   // added comment for all commit
+   // added comment for all commits
 
 /* =============================================================
    PART A: QUIZ DATA — REPLACE WITH YOUR OWN QUESTIONS ✏️
@@ -96,7 +96,7 @@ const questions = [
  */
 
 function checkAnswer(selected, correct) {
-  return selected === correct;
+  return selected == correct;
 }
 
 
